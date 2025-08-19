@@ -80,5 +80,17 @@
     "governance": {
       "board_oversight": "Audit Committee quarterly review"
     }
+  },
+  "Greenhouse_Gas_Performance.pdf": {
+    "company": null,
+    "year": 2023,
+    "ghg": {
+      "base_year": 2023,
+      "scope1_tco2e": 7000,
+      "scope2_location_tco2e": 900,
+      "scope3_tco2e": 45650,
+      "total_tco2e": 53350,
+      "intensity_tco2e_per_eur_m": 18.3
+    }
   }
 }
